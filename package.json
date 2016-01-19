@@ -1,0 +1,19 @@
+{
+  "name": "stompjs2",
+  "description": "STOMP for JavaScript apps 2 (Web browser & node.js)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wen Chang",
+    "email": "wchang28@hotmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchang28/stompjs2.git"
+  },
+  "dependencies": {
+    "websocket": "^1.0.22"
+  }
+}
